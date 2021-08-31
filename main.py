@@ -1,2 +1,5 @@
 #Data Types
-1
+
+#String
+
+print("Hello"[0])
